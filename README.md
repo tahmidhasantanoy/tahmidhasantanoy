@@ -2,7 +2,7 @@
 #### A passionate frontend developer from Bangladesh.
 Self-learner in web developing sector. Have also the experience on problem solving in various platform. I have created different types of projects(websites) . Also knew the concept of OOP, Algorithm & Data structure. I have knowledge on Html, CSS, Bootstrap & JavaScript.
 
-Skills:  HTML / CSS / BOOTSTARP /  JS 
+Skills:  HTML / CSS / BOOTSTARP / tailwind / JS 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript. 
