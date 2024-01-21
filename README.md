@@ -59,7 +59,6 @@ Self-learner in web developing sector. Have also the experience on problem solvi
 
 <br/>  
 
-  
 
 <br/>  
 
