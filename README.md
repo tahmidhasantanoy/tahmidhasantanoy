@@ -3,10 +3,6 @@
 Self-learner in web developing sector. Have also the experience on problem solving in various platform. I have created different types of projects(websites) . Also knew the concept of OOP, Algorithm & Data structure. I have knowledge on Html, CSS, Bootstrap,React Bootstrap, Tailwind,DaisyUI,JavaScript,TypeScript,ReactJs,NextJs,Redux,Firebase,Jwt,NodeJs,ExpressJs,MongoDB,Mongoose.
 
 
-- 🔭 I’m currently working on [Gollachut](https://github.com/tahmidhasantanoy/GollaChut-Client)
-
-- 🌱 I’m currently learning **NextJs**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -30,10 +26,10 @@ Self-learner in web developing sector. Have also the experience on problem solvi
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 </p>
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript. 
-- 📫 How to reach me: tahmid15-12920@diu.edu.bd
-    
+-  🔭 I’m currently working on [Gollachut](https://github.com/tahmidhasantanoy/GollaChut-Client)
+- 🌱 I’m currently learning **NextJs**
+- 📫 How to reach me: tahmid.hasan.tanoy@gmail.com
+
 
 <br/>  
 
