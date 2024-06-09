@@ -2,7 +2,6 @@
 #### A passionate frontend developer from Bangladesh.
 Self-learner in web developing sector. Have also the experience on problem solving in various platform. I have created different types of projects(websites) . Also knew the concept of OOP, Algorithm & Data structure. I have knowledge on Html, CSS, Bootstrap,React Bootstrap, Tailwind,DaisyUI & JavaScript.
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Gollachut](https://github.com/tahmidhasantanoy/GollaChut-Client)
 
