@@ -3,7 +3,6 @@
 Self-learner in web developing sector. Have also the experience on problem solving in various platform. I have created different types of projects(websites) . Also knew the concept of OOP, Algorithm & Data structure. I have knowledge on Html, CSS, Bootstrap,React Bootstrap, Tailwind,DaisyUI,JavaScript,TypeScript,ReactJs,NextJs,Redux,Firebase,Jwt,NodeJs,ExpressJs,MongoDB,Mongoose.
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
