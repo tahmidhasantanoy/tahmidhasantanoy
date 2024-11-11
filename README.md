@@ -37,7 +37,10 @@ I'm a passionate self-taught developer focused on creating impactful web applica
 I'm always exploring new frameworks, tools, and best practices to expand my skill set and stay updated in the tech world.
 -  🔭 I’m currently working on [Gollachut](https://github.com/tahmidhasantanoy/GollaChut-Client)
 - 📫 How to reach me: tahmid.hasan.tanoy@gmail.com
-<br/>  
+<br/>
+
+### 
+ Feel free to explore my repositories and connect with me on my coding journey!
 
 
 </td></tr></table>  
