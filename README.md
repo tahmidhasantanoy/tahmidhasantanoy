@@ -1,5 +1,5 @@
-####👋, I'm Tahmid Hasan
-####🌟 Self-Taught Web Developer | Problem Solver | Lifelong Learner 🌟
+###👋, I'm Tahmid Hasan
+###🌟 Self-Taught Web Developer | Problem Solver | Lifelong Learner 🌟
 Driven by a passion for web development and a dedication to problem-solving, I am a self-taught developer with hands-on experience building diverse web projects. My journey in tech has equipped me with a strong foundation in Object-Oriented Programming, Algorithms, and Data Structures.
 
 ####💻 Tech Stack & Skills:
