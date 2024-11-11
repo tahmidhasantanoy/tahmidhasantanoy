@@ -1,7 +1,8 @@
-### Hi 👋, I'm Tahmid Hasan
-#### A passionate frontend developer from Bangladesh.
-Self-learner in web developing sector. Have also the experience on problem solving in various platform. I have created different types of projects(websites) . Also knew the concept of OOP, Algorithm & Data structure. I have knowledge on Html, CSS, Bootstrap,React Bootstrap,Tailwind,MaterialUI,DaisyUI,JavaScript,TypeScript,ReactJs,NextJs,Redux,Firebase,Jwt,NodeJs,ExpressJs,MongoDB,Mongoose.
+####👋, I'm Tahmid Hasan
+####🌟 Self-Taught Web Developer | Problem Solver | Lifelong Learner 🌟
+Driven by a passion for web development and a dedication to problem-solving, I am a self-taught developer with hands-on experience building diverse web projects. My journey in tech has equipped me with a strong foundation in Object-Oriented Programming, Algorithms, and Data Structures.
 
+####💻 Tech Stack & Skills:
 
 <p align="left">
 </p>
