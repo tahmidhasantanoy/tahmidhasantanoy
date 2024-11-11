@@ -1,8 +1,8 @@
-# 👋 Hi there! I'm Tahmid Hasan.
+# 👋 Hi! I'm Tahmid Hasan.
 
 💻 **Full-Stack Web Developer | Problem Solver | Lifelong Learner**
 
-I'm a passionate self-taught developer focused on creating impactful web applications with a clean and user-friendly approach. With experience in **React, Node.js, MongoDB**, and a strong foundation in **OOP, Algorithms, and Data Structures**, I enjoy crafting solutions that balance functionality and aesthetics.
+I'm a passionate self-taught developer focused on creating impactful web applications with a clean and user-friendly approach. With experience in **React, Node.js, MongoDB**, and a strong foundation in **OOP and Data Structures**, I enjoy crafting solutions that balance functionality and aesthetics.
 
 ### 🛠 Tech Stack & skills :
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind, Material UI, Daisy UI, React, Next.js, Redux
@@ -33,7 +33,7 @@ I'm a passionate self-taught developer focused on creating impactful web applica
 </br>
 
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning :
 I'm always exploring new frameworks, tools, and best practices to expand my skill set and stay updated in the tech world.
 -  🔭 I’m currently working on [Gollachut](https://github.com/tahmidhasantanoy/GollaChut-Client)
 - 📫 How to reach me: tahmid.hasan.tanoy@gmail.com
@@ -75,7 +75,7 @@ I'm always exploring new frameworks, tools, and best practices to expand my skil
 
 <br />
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidhasantanoy&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
 <br/>
