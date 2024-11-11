@@ -39,8 +39,7 @@ I'm always exploring new frameworks, tools, and best practices to expand my skil
 - 📫 How to reach me: tahmid.hasan.tanoy@gmail.com
 <br/>
 
-### 
- Feel free to explore my repositories and connect with me on my coding journey!
+### Feel free to explore my repositories and connect with me on my coding journey!
 
 
 </td></tr></table>  
