@@ -29,9 +29,12 @@ I'm a passionate self-taught developer focused on creating impactful web applica
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/nextjs-2.svg" alt="Nextjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 </p>
+</br>
+</br>
 
 -  🔭 I’m currently working on [Gollachut](https://github.com/tahmidhasantanoy/GollaChut-Client)
-- 🌱 I’m currently learning **NextJs**
+### 🌱 Currently Learning
+I'm always exploring new frameworks, tools, and best practices to expand my skill set and stay updated in the tech world.
 - 📫 How to reach me: tahmid.hasan.tanoy@gmail.com
 
 
