@@ -5,8 +5,8 @@
 I'm a passionate self-taught developer focused on creating impactful web applications with a clean and user-friendly approach. With experience in **React, Node.js, MongoDB**, and a strong foundation in **OOP and Data Structures**, I enjoy crafting solutions that balance functionality and aesthetics.
 
 ### 🛠 Tech Stack & skills :
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind, Material UI, Daisy UI, React, Next.js, Redux
-- **Backend:** Node.js, Express.js, MongoDB
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind, Material UI, Daisy UI, React, Next.js, Redux, TypeScript
+- **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **Security & Auth:** Firebase, JWT
 
 <p align="left">
