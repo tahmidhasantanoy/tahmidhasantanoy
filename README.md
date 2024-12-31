@@ -6,7 +6,7 @@ I'm a passionate self-taught developer focused on creating impactful web applica
 
 ### 🛠 Tech Stack & skills :
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind, Material UI, Daisy UI, React, Next.js, Redux, TypeScript
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose
+- **Backend:** Node.js, Express.js, Mongoose, MongoDB
 - **Security & Auth:** Firebase, JWT
 
 <p align="left">
