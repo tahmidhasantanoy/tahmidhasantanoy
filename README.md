@@ -12,14 +12,14 @@ I'm a passionate self-taught developer focused on creating impactful web applica
 <div align="center">
   <table>
     <tr>
-      <!-- <td align="center" width="96"> -->
+      <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
         <br/>HTML
-      <!-- </td> -->
-      <!-- <td align="center" width="96"> -->
+      </td>
+      <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
         <br/>CSS
-      <!-- </td> -->
+      </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
         <br/>JavaScript
