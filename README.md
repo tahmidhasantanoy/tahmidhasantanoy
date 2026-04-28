@@ -12,7 +12,7 @@ I'm a passionate self-taught developer focused on creating impactful web applica
 <!-- <p align="left">
 </p> -->
 
-<p display: flex; align="center">
+<p display: "flex"; align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
