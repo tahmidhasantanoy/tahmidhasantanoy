@@ -98,4 +98,8 @@ I'm always exploring new frameworks, tools, and best practices to expand my skil
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidhasantanoy&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
 <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=tahmidhasantanoy)
+// ![Profile Views](https://komarev.com/ghpvc/?username=tahmidhasantanoy)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahmidhasantanoy" alt="Profile Views" />
+</p>
