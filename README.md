@@ -86,12 +86,12 @@ I'm always exploring new frameworks, tools, and best practices to expand my skil
 
 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tahmidhasantanoy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=tahmidhasantanoy&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tahmidhasantanoy&theme=tokyonight&hide_border=true&layout=donut" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tahmidhasantanoy&theme=react&hide_border=true&layout=donut" alt="Most Used Languages" />
 </p>
 
 
