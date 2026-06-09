@@ -90,9 +90,9 @@ I'm always exploring new frameworks, tools, and best practices to expand my skil
 </p>
 
 📊 Most Used Languages
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tahmidhasantanoy&theme=react&hide_border=true&layout=donut" alt="Most Used Languages" />
-</p>
+</div>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidhasantanoy&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
