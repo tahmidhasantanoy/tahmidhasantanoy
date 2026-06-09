@@ -91,9 +91,7 @@ I'm always exploring new frameworks, tools, and best practices to expand my skil
 
 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahmidhasantanoy&theme=tokyonight" alt="Repos Per Language" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahmidhasantanoy&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tahmidhasantanoy&theme=tokyonight&hide_border=true&layout=donut" alt="Most Used Languages" />
 </p>
 
 
