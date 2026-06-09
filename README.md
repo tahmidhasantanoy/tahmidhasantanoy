@@ -66,7 +66,7 @@ I'm always exploring new frameworks, tools, and best practices to expand my skil
 
 <br/>
 
-## 📫 Connect with me :
+### 📫 Connect with me :
 <div align="center">
 <a href="https://github.com/tahmidhasantanoy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -84,21 +84,18 @@ I'm always exploring new frameworks, tools, and best practices to expand my skil
 
 <br/>
 
-🔥 GitHub Streak
+### 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=tahmidhasantanoy&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
-📊 Most Used Languages
+### 📊 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tahmidhasantanoy&theme=react&hide_border=true&layout=donut" alt="Most Used Languages" />
 </div>
 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidhasantanoy&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
-<br/>
-// ![Profile Views](https://komarev.com/ghpvc/?username=tahmidhasantanoy)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tahmidhasantanoy" alt="Profile Views" />
